@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portafolio/static/css/main.1d8d4c05.css",
-    "main.js": "/portafolio/static/js/main.f79975a8.js",
+    "main.css": "/portafolio/static/css/main.6f34fd1a.css",
+    "main.js": "/portafolio/static/js/main.dc70f07e.js",
     "static/media/CV-EdwinSierra.pdf": "/portafolio/static/media/CV-EdwinSierra.233f635e900d0feca20c.pdf",
     "static/media/proyect1.png": "/portafolio/static/media/proyect1.d9cb3558c9b15100e5f4.png",
     "static/media/proyect3.png": "/portafolio/static/media/proyect3.b257209ede6c5a77edbd.png",
@@ -28,11 +28,11 @@
     "static/media/html5.svg": "/portafolio/static/media/html5.84c6adac417775a66b5529f1ae8d4572.svg",
     "static/media/css3.svg": "/portafolio/static/media/css3.9882e252f3baf8b8d57642a1384d8ba3.svg",
     "static/media/vue.svg": "/portafolio/static/media/vue.883fa509d21a88362c9f0e71f55cb68d.svg",
-    "main.1d8d4c05.css.map": "/portafolio/static/css/main.1d8d4c05.css.map",
-    "main.f79975a8.js.map": "/portafolio/static/js/main.f79975a8.js.map"
+    "main.6f34fd1a.css.map": "/portafolio/static/css/main.6f34fd1a.css.map",
+    "main.dc70f07e.js.map": "/portafolio/static/js/main.dc70f07e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d8d4c05.css",
-    "static/js/main.f79975a8.js"
+    "static/css/main.6f34fd1a.css",
+    "static/js/main.dc70f07e.js"
   ]
 }
